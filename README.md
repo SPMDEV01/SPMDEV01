@@ -1,4 +1,4 @@
-# Hi there, I'm Sarath! 👋
+## Hi there, I'm Sarath! 👋
 
 ### 🚀 Mobile Developer | Flutter Enthusiast
 
